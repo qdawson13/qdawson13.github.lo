@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en">
+    <head>
+    <meta charset="utf-8">
+    <title>HOME</title>
+    </head>
+    <body>
+    <a href="index.html">here it is</a>
+    <a href="portfolio.html">Portfolio</a>
+    <h1>THIS IS MY TEST HOME PAGE</h1>
+    <img src="IMAGES/house-5.png" height="250">
+    </body>
+    </html>
